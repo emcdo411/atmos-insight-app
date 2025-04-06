@@ -116,7 +116,7 @@ Built with an eye on real-world utility needs, it’s designed to inform, educat
 
 ---
 
-## 🔗 [Live App Here](https://YOUR_SHINYAPP_LINK)
+## 🔗 [Live App Here](https://mmcdonald411.shinyapps.io/AtmosInsight2025/)
 
 ## 📂 Suggested Repo Name  
 **atmos-insight-app** or **atmos-energy-forecast**
